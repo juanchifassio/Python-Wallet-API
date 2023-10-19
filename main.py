@@ -64,3 +64,4 @@ def update_users(id: int, updated_user: Users):
     my_users[index] = updated_user
 
     return {'message': f'Updated user {id} successfully'}
+
