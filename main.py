@@ -65,4 +65,3 @@ def update_users(id: int, updated_user: Users):
 
     return {'message': f'Updated user {id} successfully'}
 
-#
