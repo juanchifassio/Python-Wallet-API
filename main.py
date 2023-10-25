@@ -4,6 +4,7 @@ from fastapi import FastAPI, HTTPException, Response, status
 from pydantic import BaseModel
 
 app = FastAPI()
+# comment added
 
 my_users = list()
 
