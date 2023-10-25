@@ -2,7 +2,6 @@ from random import randrange
 from datetime import datetime
 from fastapi import FastAPI, HTTPException, Response, status
 from pydantic import BaseModel
-# asd
 
 app = FastAPI()
 
